@@ -73,10 +73,10 @@ A walkthrough of some of the problems of East Coast Hospital CTF
 	+ 1 host(s) tested
 
 
-![Screenshot of website on 10.13.37.3:80](content/images/machine_3_port_80_website.png)
+![Screenshot of website on 10.13.37.3:80](images/machine_3_port_80_website.png)
 
 
-![Screenshot of a normal post request on 10.13.37.3:80](content/images/machine_3_port_80_basic_post.png)
+![Screenshot of a normal post request on 10.13.37.3:80](images/machine_3_port_80_basic_post.png)
 
 
 ## Take a step back
@@ -165,7 +165,7 @@ Response:
 
 ## Website
 
-![Screenshot of 10.13.37.4:80](content/images/machine_4_port_80_website.png)
+![Screenshot of 10.13.37.4:80](images/machine_4_port_80_website.png)
 
 
 ## Initial discovery
@@ -430,7 +430,7 @@ That doesn't seem quite right. 🤔
 
 Open the binary in a hex editor and change 'wb' to 'rb'
 
-![secretmail.bin in a hex editor](content/images/secretmail-hex-editor.png)
+![secretmail.bin in a hex editor](images/secretmail-hex-editor.png)
 
 
 ## Trying Our New Binary
