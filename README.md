@@ -5,13 +5,13 @@ A walkthrough of some of the problems of East Coast Hospital CTF
 
 ## CTF by
 
-Maxwell Harley
+[Maxwell Harley](https://maxh.io/)
 
 ---
 
 ## Presentation By
 
-Weston Belk
+[Weston Belk](www.westonbelk.com)
 
 
 
@@ -513,5 +513,23 @@ Integer math is fun!
 
 # Closing Thoughts
 
-This was my first real ctf and I had a good time and learned a lot.
+This was my first real ctf. 
 
+The binary analysis part was probably my favorite part even though I had issues with it at first. 
+
+Overall, I had a good time and learned a lot.
+
+
+## CTF by
+
+[Maxwell Harley](https://maxh.io/)
+
+---
+
+## Presentation By
+
+[Weston Belk](www.westonbelk.com)
+
+-
+
+Brought to you by [Clemson Cyber Security](https://cucyber.net/)
